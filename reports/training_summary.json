@@ -1,0 +1,6 @@
+{
+  "best_val_loss": 0.5221229423546605,
+  "final_epoch": 7,
+  "num_users": 6040,
+  "num_movies": 3706
+}
