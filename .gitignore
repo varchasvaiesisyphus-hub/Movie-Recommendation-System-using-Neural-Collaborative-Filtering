@@ -76,15 +76,6 @@ data/interim/
 *.npy
 *.npz
 
-# ============================================================
-# Reports & Figures (Generated)
-# ============================================================
-reports/*.pdf
-reports/*.html
-figures/*.png
-figures/*.jpg
-figures/*.jpeg
-figures/*.svg
 
 # ============================================================
 # Cache
